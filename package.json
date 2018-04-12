@@ -1,0 +1,24 @@
+{
+  "name": "admin",
+  "version": "1.0.0",
+  "description": "person admin template",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "babel-preset-es2015": "^6.24.1",
+    "rimraf": "^2.6.2",
+    "webpack": "^4.5.0"
+  },
+  "dependencies": {
+    "axios": "^0.18.0",
+    "es6-promise": "^4.2.4",
+    "js-cookie": "^2.2.0",
+    "v-tap": "^3.0.3",
+    "vue": "^2.5.16",
+    "vuex": "^3.0.1"
+  }
+}
